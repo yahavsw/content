@@ -10,9 +10,15 @@
     "categories": [
         "Data Enrichment & Threat Intelligence"
     ],
-    "tags": [],
-    "useCases": [],
-    "keywords": [],
+    "tags": ["Breach Simulation"],
+    "useCases": ["Immediate Threats Handling Automation"],
+    "keywords": [
+        "BaS",
+        "XSPM",
+        "Red Team"
+        "Purple Team"
+        "Blue Team"
+    ],
     "githubUser": [],
     "certification": "certified",
     "marketplaces": [
